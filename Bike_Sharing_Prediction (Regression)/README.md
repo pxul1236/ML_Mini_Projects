@@ -21,10 +21,10 @@ The dataset used in this project is sourced from UCI Machine Learning Repository
 - **Count**: Total count of bike rentals (target variable)
 
 ## 🔧 Tools and Libraries 
--Pandas: For data manipulation and analysis.
--NumPy: For numerical computations.
--Matplotlib & Seaborn: For data visualization.
--Scikit-learn: For machine learning algorithms and model evaluation.
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computations.
+- **Matplotlib & Seaborn**: For data visualization.
+- **Scikit-learn**: For machine learning algorithms and model evaluation.
 
 
 ## Models Implemented
@@ -55,5 +55,5 @@ The models were evaluated using cross-validation and mean squared error (MSE) as
 | Gradient Boosting Regressor | 365.17           | 382.35             |
 
 ## Future Work
--Hyperparameter Tuning: Further optimize model performance by tuning hyperparameters using techniques such as Grid Search or Random Search.
--Feature Engineering: Explore additional features that could improve model accuracy, such as time-based features (hour of the day) or geographical data.
+- **Hyperparameter Tuning**: Further optimize model performance by tuning hyperparameters using techniques such as Grid Search or Random Search.
+- **Feature Engineering**: Explore additional features that could improve model accuracy, such as time-based features (hour of the day) or geographical data.

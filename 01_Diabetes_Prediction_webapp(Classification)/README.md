@@ -14,11 +14,6 @@
 
 ## Demo Screenshots
 
-### Home Page
-![Home Page](assets\screenshots\home_screenshot.png)
-
-### Prediction Page
-![Prediction Page](assets\screenshots\prediction_screenshot.png)
 
 ## Project Structure
 ```

@@ -14,10 +14,10 @@
 
 ## Demo Screenshots
 ### Home Page
-![Home Screenshot](Diabetes_Prediction_webapp%28Classification%29/assets/screenshots/home_screenshot.png)
+![Home Screenshot](assets\screenshots\home_screenshot.png)
 
 ### Predicted Page
-![Predicted Page Screenshot](Diabetes_Prediction_webapp%28Classification%29/assets/screenshots/prediction_screenshot.png)
+![Predicted Page Screenshot](assets\screenshots\prediction_screenshot.png)
 
 ## Project Structure
 ```

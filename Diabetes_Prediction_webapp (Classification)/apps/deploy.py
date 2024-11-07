@@ -4,9 +4,9 @@ import numpy as np
 
 app = Flask(__name__, template_folder= 'templates')
 
-model = joblib.load('new_model.joblib')
+model = joblib.load('model.joblib')
 
-scaler = joblib.load('new_scaler.joblib')
+scaler = joblib.load('scaler.joblib')
 
 @app.route('/')
 def welcome():

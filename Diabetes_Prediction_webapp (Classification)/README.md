@@ -12,6 +12,14 @@
 - Web Application: Built with Flask for backend, HTML/CSS for frontend.
 - Deployment: Flask app runs locally for real-time prediction.
 
+## Demo Screenshots
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Result Page
+![Result Page](screenshots/result_page.png)
+
+
 ## Project Structure
 ```
 diabetes_prediction

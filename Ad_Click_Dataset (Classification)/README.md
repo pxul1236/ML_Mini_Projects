@@ -18,4 +18,4 @@ The dataset contains features related to user demographics and online behavior, 
 ### Model Used
 Logistic Regression: Logistic regression is a linear model used for binary classification. It models the probability of the target variable (ad click) based on the linear combination of the input features. It’s a suitable starting point due to its interpretability and quick training process.
 ### Results
-The logistic regression model demonstrated moderate accuracy in predicting ad clicks. Given its simplicity, it serves as a benchmark for potential future models that might incorporate more complex algorithms.
+The logistic regression model demonstrated moderate accuracy in predicting ad clicks. Its simplicity serves as a benchmark for future models that might incorporate more complex algorithms.
